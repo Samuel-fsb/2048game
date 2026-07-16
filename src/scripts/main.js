@@ -1,6 +1,6 @@
 'use strict';
 
-import Game from '../modules/Game.class';
+import Game from '../modules/game.class.js';
 
 document.addEventListener('DOMContentLoaded', () => {
   const game = new Game();
