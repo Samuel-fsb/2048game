@@ -46,9 +46,13 @@ Siga os passos abaixo para testar o jogo no seu computador:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Conceitos e Técnicas
-- Programação Orientada a Objetos (POO)
-- Manipulação do DOM
-- Captura de eventos do teclado (Event Listeners para as setas de direção)
+- Programação Orientada a Objetos (POO).
+- Manipulação do DOM.
+- Captura de eventos do teclado (Event Listeners para as setas de direção).
+- Gestão de Estado: Controle do estado atual do jogo (a matriz 4 × 4 e a pontuação) e atualização da interface a cada movimento.
+- Algoritmos e Lógica de Matrizes: Desenvolvimento da lógica para mover e fundir blocos nas 4 direções, lidando com deslocamentos espaciais e condições de vitória/derrota.
+- Transições e animações usando CSS.
+- Utilizei tags semânticas para estruturar o jogo.
 
 # Desenvolvedor
 <img width="120" alt="foto-minha-2" src="https://github.com/user-attachments/assets/6af9da35-0b7f-4034-89ad-e247e1140f8c" />
